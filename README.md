@@ -1,7 +1,10 @@
 
 
-
 # julivan soares
+
+## Sobre
+
+Meu nome é Julivan Dos Santos Soares. Tenho 30 anos de idade sou uma pessoa dedicada e comprometida com as atividades atribuídas a mim. Busco dar continuidade a minha carreira profissional com intuito de atuar como desenvolvedor fullstack
 
 
 <a href="https://github.com/julivansoares"> 
@@ -19,7 +22,10 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor">
+
 </div>
 
 ##
