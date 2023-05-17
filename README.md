@@ -7,7 +7,7 @@
 Meu nome é Julivan Dos Santos Soares. Tenho 30 anos de idade sou uma pessoa dedicada e comprometida com as atividades atribuídas a mim. Busco dar continuidade a minha carreira profissional com intuito de atuar como desenvolvedor fullstack
 
 
-<a href="https://github.com/julivansoares"> 
+<a href="https://github.com/julivansoares">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=julivansoares&show_icons=true&theme=chartreuse-dark" />
 
